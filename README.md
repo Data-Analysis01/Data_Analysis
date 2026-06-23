@@ -62,4 +62,5 @@ The dashboard provides actionable insights into power consumption behavior, help
 ## Author
 
 Hari Krishnan
+
 Data Analyst | Business Intelligence Enthusiast | Dashboard Developer
